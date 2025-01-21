@@ -9,7 +9,7 @@ Design anad UI preview :
 
 #### PROJECT :
 
--> A React application built using Vite capable of converting currency of several different countries.
+Modern-Currency-Convertor
 
 #### ACKNOWLEDGEMENTS :
 

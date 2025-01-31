@@ -19,7 +19,7 @@ Modern-Currency-Convertor
 -> Smooth options scrolling.
 
 #### TECHNOLOGIES :
-HTML , CSS , Javascript
+HTML5 , CSS , React , APIs 
 
 #### CONCEPTS AND TECHNIQUES :
 Promises , API Calling , DOM Manipulation , gettingCurrentLocation .
